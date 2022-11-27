@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @night-pilot
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![Design and Development](https://github.com/night-pilot/night-pilot/blob/main/Untitled-1.jpg)
 
-<!---
-night-pilot/night-pilot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Nithin Alex
+Skilled DevOps Engineer with hands-on experience supporting, automating, and optimizing critical deployments in AWS,GCP, Cloud Administration, configuration management,CI/CD, and DevOps processes.
+
+
+
+
+
